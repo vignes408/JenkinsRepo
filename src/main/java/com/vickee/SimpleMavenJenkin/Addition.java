@@ -1,4 +1,4 @@
-package com.vickee.SimpleMavenJenkin;
+package com.vickee.simplemavenjenkin;
 
 public class Addition {
 	
